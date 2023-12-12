@@ -4,7 +4,7 @@ Este é o código-fonte do meu site de portfólio, onde mostro alguns dos meus p
 
 ## Visualização Online
 
-Você pode visualizar o site online [aqui]([(https://harry-portifolio.vercel.app/)]).
+Você pode visualizar o site online [aqui]([https://harry-portifolio.vercel.app/]).
 
 ## Estrutura do Projeto
 
