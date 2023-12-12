@@ -19,7 +19,7 @@ Você pode visualizar o site online [aqui](https://harry-portifolio.vercel.app/)
 
 ## Como Executar Localmente
 
-Clone este repositório:
+1. Clone este repositório:
 
    ```bash
    git clone https://github.com/harryrodriads/Meu-Portifolio
