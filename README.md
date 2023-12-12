@@ -11,9 +11,9 @@ Você pode visualizar o site online [aqui](https://harry-portifolio.vercel.app/)
 - `resources/`: Pasta contendo os componentes.
   - `css/`: Pasta contendo os componentes.
     - `content.css` e `style.css`: Estilos gerais do site em CSS.
-- `images/`: Pasta para armazenar todas as imagens usadas no site.
-- `script/`: Pasta contendo os arquivos JavaScript.
-  - `nav.js` e `content.js`: Lógica interativa para o site em JavaScript.
+  - `images/`: Pasta para armazenar todas as imagens usadas no site.
+  - `script/`: Pasta contendo os arquivos JavaScript.
+    - `nav.js` e `content.js`: Lógica interativa para o site em JavaScript.
 - `index.html`: Página inicial do site.
 
 
