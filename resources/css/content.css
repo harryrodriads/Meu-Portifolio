@@ -440,9 +440,8 @@ section {
     top: 0;
     left: 0;
     width: 160px;
-    border-radius: 50%;
+    border-radius: 30%;
     border: 2px solid rgba(31, 31, 31, .8);
-    oppacity: 80%;
 
 }
 
